@@ -1,0 +1,264 @@
+﻿
+namespace B201210025_NDP_ODEV_2_SORU_2
+{
+    partial class Form4
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.label1 = new System.Windows.Forms.Label();
+            this.btnMatris = new System.Windows.Forms.Button();
+            this.btnTrasnpoze = new System.Windows.Forms.Button();
+            this.btnIz = new System.Windows.Forms.Button();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
+            this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
+            this.btnOpen = new System.Windows.Forms.Button();
+            this.btnSave = new System.Windows.Forms.Button();
+            this.richTextBoxSave = new System.Windows.Forms.RichTextBox();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
+            this.richTextBoxOpen = new System.Windows.Forms.RichTextBox();
+            this.btnReset = new System.Windows.Forms.Button();
+            this.label3 = new System.Windows.Forms.Label();
+            this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft YaHei", 7.8F, System.Drawing.FontStyle.Bold);
+            this.label1.Location = new System.Drawing.Point(82, 33);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(35, 19);
+            this.label1.TabIndex = 3;
+            this.label1.Text = "nxn";
+            // 
+            // btnMatris
+            // 
+            this.btnMatris.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btnMatris.Font = new System.Drawing.Font("Microsoft YaHei", 7.8F, System.Drawing.FontStyle.Bold);
+            this.btnMatris.ForeColor = System.Drawing.Color.White;
+            this.btnMatris.Location = new System.Drawing.Point(83, 81);
+            this.btnMatris.Name = "btnMatris";
+            this.btnMatris.Size = new System.Drawing.Size(102, 35);
+            this.btnMatris.TabIndex = 7;
+            this.btnMatris.Text = "Matris Gir";
+            this.btnMatris.UseVisualStyleBackColor = false;
+            this.btnMatris.Click += new System.EventHandler(this.btnMatris_Click);
+            // 
+            // btnTrasnpoze
+            // 
+            this.btnTrasnpoze.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btnTrasnpoze.Font = new System.Drawing.Font("Microsoft YaHei", 7.8F, System.Drawing.FontStyle.Bold);
+            this.btnTrasnpoze.ForeColor = System.Drawing.Color.White;
+            this.btnTrasnpoze.Location = new System.Drawing.Point(462, 45);
+            this.btnTrasnpoze.Name = "btnTrasnpoze";
+            this.btnTrasnpoze.Size = new System.Drawing.Size(123, 43);
+            this.btnTrasnpoze.TabIndex = 8;
+            this.btnTrasnpoze.Text = "Transpoze ";
+            this.btnTrasnpoze.UseVisualStyleBackColor = false;
+            this.btnTrasnpoze.Click += new System.EventHandler(this.btnTranspoze_Click);
+            // 
+            // btnIz
+            // 
+            this.btnIz.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btnIz.Font = new System.Drawing.Font("Microsoft YaHei", 7.8F, System.Drawing.FontStyle.Bold);
+            this.btnIz.ForeColor = System.Drawing.Color.White;
+            this.btnIz.Location = new System.Drawing.Point(462, 182);
+            this.btnIz.Name = "btnIz";
+            this.btnIz.Size = new System.Drawing.Size(123, 43);
+            this.btnIz.TabIndex = 9;
+            this.btnIz.Text = "İz";
+            this.btnIz.UseVisualStyleBackColor = false;
+            this.btnIz.Click += new System.EventHandler(this.btnIz_Click);
+            // 
+            // textBox3
+            // 
+            this.textBox3.Location = new System.Drawing.Point(631, 29);
+            this.textBox3.Multiline = true;
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(100, 80);
+            this.textBox3.TabIndex = 13;
+            // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(68, 137);
+            this.textBox2.Multiline = true;
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(132, 93);
+            this.textBox2.TabIndex = 11;
+            // 
+            // textBox4
+            // 
+            this.textBox4.Location = new System.Drawing.Point(631, 162);
+            this.textBox4.Multiline = true;
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(100, 80);
+            this.textBox4.TabIndex = 12;
+            // 
+            // openFileDialog1
+            // 
+            this.openFileDialog1.FileName = "openFileDialog1";
+            // 
+            // btnOpen
+            // 
+            this.btnOpen.BackColor = System.Drawing.Color.MediumPurple;
+            this.btnOpen.Font = new System.Drawing.Font("Microsoft YaHei", 7.8F, System.Drawing.FontStyle.Bold);
+            this.btnOpen.ForeColor = System.Drawing.Color.White;
+            this.btnOpen.Location = new System.Drawing.Point(32, 395);
+            this.btnOpen.Name = "btnOpen";
+            this.btnOpen.Size = new System.Drawing.Size(152, 43);
+            this.btnOpen.TabIndex = 14;
+            this.btnOpen.Text = "Dosyayı Aç";
+            this.btnOpen.UseVisualStyleBackColor = false;
+            this.btnOpen.Click += new System.EventHandler(this.btnOpen_Click);
+            // 
+            // btnSave
+            // 
+            this.btnSave.BackColor = System.Drawing.Color.MediumPurple;
+            this.btnSave.Font = new System.Drawing.Font("Microsoft YaHei", 7.8F, System.Drawing.FontStyle.Bold);
+            this.btnSave.ForeColor = System.Drawing.Color.White;
+            this.btnSave.Location = new System.Drawing.Point(577, 289);
+            this.btnSave.Name = "btnSave";
+            this.btnSave.Size = new System.Drawing.Size(154, 43);
+            this.btnSave.TabIndex = 15;
+            this.btnSave.Text = "Dosyaya Kaydet";
+            this.btnSave.UseVisualStyleBackColor = false;
+            this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
+            // 
+            // richTextBoxSave
+            // 
+            this.richTextBoxSave.Location = new System.Drawing.Point(56, 300);
+            this.richTextBoxSave.Name = "richTextBoxSave";
+            this.richTextBoxSave.Size = new System.Drawing.Size(107, 81);
+            this.richTextBoxSave.TabIndex = 16;
+            this.richTextBoxSave.Text = "";
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.numericUpDown1);
+            this.groupBox1.Controls.Add(this.label1);
+            this.groupBox1.Controls.Add(this.btnMatris);
+            this.groupBox1.Controls.Add(this.textBox2);
+            this.groupBox1.Font = new System.Drawing.Font("Microsoft YaHei", 7.8F, System.Drawing.FontStyle.Bold);
+            this.groupBox1.Location = new System.Drawing.Point(32, 12);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(257, 259);
+            this.groupBox1.TabIndex = 17;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Matris";
+            // 
+            // numericUpDown1
+            // 
+            this.numericUpDown1.Location = new System.Drawing.Point(138, 33);
+            this.numericUpDown1.Name = "numericUpDown1";
+            this.numericUpDown1.Size = new System.Drawing.Size(62, 25);
+            this.numericUpDown1.TabIndex = 18;
+            // 
+            // richTextBoxOpen
+            // 
+            this.richTextBoxOpen.Location = new System.Drawing.Point(56, 300);
+            this.richTextBoxOpen.Name = "richTextBoxOpen";
+            this.richTextBoxOpen.Size = new System.Drawing.Size(107, 81);
+            this.richTextBoxOpen.TabIndex = 18;
+            this.richTextBoxOpen.Text = "";
+            this.richTextBoxOpen.Visible = false;
+            // 
+            // btnReset
+            // 
+            this.btnReset.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btnReset.Font = new System.Drawing.Font("Microsoft YaHei", 7.8F, System.Drawing.FontStyle.Bold);
+            this.btnReset.ForeColor = System.Drawing.Color.White;
+            this.btnReset.Location = new System.Drawing.Point(665, 395);
+            this.btnReset.Name = "btnReset";
+            this.btnReset.Size = new System.Drawing.Size(123, 43);
+            this.btnReset.TabIndex = 19;
+            this.btnReset.Text = "RESET";
+            this.btnReset.UseVisualStyleBackColor = false;
+            this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft YaHei", 7.8F, System.Drawing.FontStyle.Bold);
+            this.label3.ForeColor = System.Drawing.Color.Maroon;
+            this.label3.Location = new System.Drawing.Point(250, 362);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(335, 19);
+            this.label3.TabIndex = 21;
+            this.label3.Text = "DOSYAYA BAŞARILI BİR ŞEKİLDE KAYDEDİLDİ";
+            this.label3.Visible = false;
+            // 
+            // Form4
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.AntiqueWhite;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.btnReset);
+            this.Controls.Add(this.richTextBoxOpen);
+            this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.richTextBoxSave);
+            this.Controls.Add(this.btnSave);
+            this.Controls.Add(this.btnOpen);
+            this.Controls.Add(this.textBox4);
+            this.Controls.Add(this.textBox3);
+            this.Controls.Add(this.btnIz);
+            this.Controls.Add(this.btnTrasnpoze);
+            this.Name = "Form4";
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button btnMatris;
+        private System.Windows.Forms.Button btnTrasnpoze;
+        private System.Windows.Forms.Button btnIz;
+        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.OpenFileDialog openFileDialog1;
+        private System.Windows.Forms.SaveFileDialog saveFileDialog1;
+        private System.Windows.Forms.Button btnOpen;
+        private System.Windows.Forms.Button btnSave;
+        private System.Windows.Forms.RichTextBox richTextBoxSave;
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.NumericUpDown numericUpDown1;
+        private System.Windows.Forms.RichTextBox richTextBoxOpen;
+        private System.Windows.Forms.Button btnReset;
+        private System.Windows.Forms.Label label3;
+    }
+}

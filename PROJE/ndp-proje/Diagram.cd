@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="vitamindeposuoyunu.KatiMeyve">
+    <Position X="1.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAASABQAAAAAAABAAQABAAAAAA=</HashCode>
+      <FileName>KatiMeyve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vitamindeposuoyunu.NarenciyeSikacak">
+    <Position X="3.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAABQAACAAAAAAAA=</HashCode>
+      <FileName>NarenciyeSikacak.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="vitamindeposuoyunu.KatiSikacak">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAABQAACAAAAAAAA=</HashCode>
+      <FileName>KatiSikacak.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="vitamindeposuoyunu.Cilek">
+    <Position X="2.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cilek.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vitamindeposuoyunu.Elma">
+    <Position X="4.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Elma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vitamindeposuoyunu.NarenciyeMeyve">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAASABQAAAAAAABAAQABAAAAAA=</HashCode>
+      <FileName>NarenciyeMeyve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vitamindeposuoyunu.Portakal">
+    <Position X="6.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Portakal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vitamindeposuoyunu.Mandalina">
+    <Position X="9.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mandalina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vitamindeposuoyunu.Greyfurt">
+    <Position X="8" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Greyfurt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vitamindeposuoyunu.Meyve">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAABAAAAAAAAAAAAAABAAAAAAAAIA=</HashCode>
+      <FileName>Meyve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vitamindeposuoyunu.Armut">
+    <Position X="0.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Armut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="vitamindeposuoyunu.ISikacak">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAABQAAAAAAAAAAA=</HashCode>
+      <FileName>ISikacak.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
